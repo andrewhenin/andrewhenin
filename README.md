@@ -7,7 +7,6 @@
     <b>Welcome to my GitHub page!</b><br><br>
     <i>
         I'm Andrew. I do Android, iOS, and web—frontend and backend.<br>
-        Open to collaborating on projects.<br>
     </i><br>
 <!--     <h2 align="center">Request a Service</h2>
     <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:andrewhenin25@gmail.com">E-Mail</a> to see how I can help you.</p><br /> -->
